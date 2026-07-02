@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The adventure of the Norwood builder DHSS2026</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5364" lry="7115" xml:id="facs_1">
+         <graphic url="0070_070_33v.jpeg" width="5364px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=PESLGIKUCIVIEVZNCKRDVUXW" width="5364px" height="7115px"/>
+         <zone points="4481,267 4833,267 4833,569 4481,569" rendition="TextRegion" xml:id="facs_1_r_1" subtype="page-number">
+            <zone points="4488,262 4719,262 4719,573 4488,573" rendition="Line" xml:id="facs_1_r_1_tl_1"/>
+         </zone>
+         <zone points="13,738 5189,738 5189,6725 13,6725" rendition="TextRegion" xml:id="facs_1_r" subtype="paragraph">
+            <zone points="189,689 1860,689 1860,1012 189,1012" rendition="Line" xml:id="facs_1_r_tl_1"/>
+            <zone points="457,951 1884,951 1884,1305 457,1305" rendition="Line" xml:id="facs_1_r_tl_2"/>
+            <zone points="500,1207 4805,1207 4805,1598 500,1598" rendition="Line" xml:id="facs_1_r_tl_3"/>
+            <zone points="177,1518 5073,1518 5073,1933 177,1933" rendition="Line" xml:id="facs_1_r_tl_4"/>
+            <zone points="530,1823 3219,1823 3219,2171 530,2171" rendition="Line" xml:id="facs_1_r_tl_5"/>
+            <zone points="543,2098 4683,2098 4683,2469 543,2469" rendition="Line" xml:id="facs_1_r_tl_6"/>
+            <zone points="177,2378 4469,2378 4469,2768 177,2768" rendition="Line" xml:id="facs_1_r_tl_7"/>
+            <zone points="226,2689 5037,2689 5037,3098 226,3098" rendition="Line" xml:id="facs_1_r_tl_9"/>
+            <zone points="220,2982 5073,2982 5073,3366 220,3366" rendition="Line" xml:id="facs_1_r_tl_10"/>
+            <zone points="213,3305 4902,3305 4902,3671 213,3671" rendition="Line" xml:id="facs_1_r_tl_12"/>
+            <zone points="2573,3238 3213,3238 3213,3427 2573,3427" rendition="Line" xml:id="facs_1_r_tl_11"/>
+            <zone points="220,3591 5018,3591 5018,3957 220,3957" rendition="Line" xml:id="facs_1_r_tl_13"/>
+            <zone points="220,3915 4634,3915 4634,4262 220,4262" rendition="Line" xml:id="facs_1_r_tl_14"/>
+            <zone points="6,4128 1055,4128 1055,4384 6,4384" rendition="Line" xml:id="facs_1_r_tl_15"/>
+            <zone points="1262,4207 4994,4207 4994,4567 1262,4567" rendition="Line" xml:id="facs_1_r_tl_16"/>
+            <zone points="226,4476 4854,4476 4854,4890 226,4890" rendition="Line" xml:id="facs_1_r_tl_17"/>
+            <zone points="250,4823 5049,4823 5049,5189 250,5189" rendition="Line" xml:id="facs_1_r_tl_18"/>
+            <zone points="213,5073 4939,5073 4939,5482 213,5482" rendition="Line" xml:id="facs_1_r_tl_19"/>
+            <zone points="37,5329 561,5329 561,5573 37,5573" rendition="Line" xml:id="facs_1_r_tl_20"/>
+            <zone points="262,5396 4817,5396 4817,5774 262,5774" rendition="Line" xml:id="facs_1_r_tl_21"/>
+            <zone points="262,5719 4689,5719 4689,6098 262,6098" rendition="Line" xml:id="facs_1_r_tl_23"/>
+            <zone points="2183,5683 2701,5683 2701,5841 2183,5841" rendition="Line" xml:id="facs_1_r_tl_22"/>
+            <zone points="274,5988 4829,5988 4829,6402 274,6402" rendition="Line" xml:id="facs_1_r_tl_24"/>
+            <zone points="262,6287 4811,6287 4811,6719 262,6719" rendition="Line" xml:id="facs_1_r_tl_25"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r_1" place="top">
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/>32</fw>
+            <p facs="#facs_1_r">
+               <lb facs="#facs_1_r_tl_1" n="N001"/>It was from <rs type="person">Norwood</rs> and
+               <lb facs="#facs_1_r_tl_2" n="N002"/><unclear>it</unclear> ran as follows.
+               <lb facs="#facs_1_r_tl_3" n="N003"/><speech speaker="Norwood" continued="true">"Important fresh evidence to hand. <rs type="person">M' Farlane</rs>'s guilt</speech>
+               <lb facs="#facs_1_r_tl_4" n="N004"/><speech speaker="Norwood" continued="true">definitely established. Advise you to abandon case. <rs type="person">Lestrade</rs>"</speech>
+               <lb facs="#facs_1_r_tl_5" n="N005"/><speech speaker="Watson">"This sounds serious"</speech> said I.
+               <lb facs="#facs_1_r_tl_6" n="N006"/><speech speaker="Holmes">"It is <rs type="person">Lestrade</rs>'s little <unclear alternative="cock-a-doodle" reason="\u0027k\u0027\u0020is\u0020written\u0020as\u0020an\u0020\u0027h\u0027">cochadoodle</unclear> of victory"</speech> <rs type="person">Holmes</rs>
+               <lb facs="#facs_1_r_tl_7" n="N007"/>answered with a bitter smile. <speech speaker="Holmes" continued="true">"And yet it may be</speech>
+               <lb facs="#facs_1_r_tl_9" n="N008"/><speech speaker="Holmes" continued="true">premature to abandon the case. After all important fresh</speech>
+               <lb facs="#facs_1_r_tl_10" n="N009"/><speech speaker="Holmes" continued="true">evidence is a two-edged thing and may possibly cut in</speech>
+               <lb facs="#facs_1_r_tl_12" n="N010"/><speech speaker="Holmes" continued="true">a very different direction to what Lestrade imagines.</speech>
+               <lb facs="#facs_1_r_tl_11" n="N011"/><speech speaker="Holmes" continued="true"><hi style="vertical-align: superscript;">that which</hi></speech>
+               <lb facs="#facs_1_r_tl_13" n="N012"/><speech speaker="Holmes" continued="true">Take your breakfast, <rs type="person">Watson</rs>, and we shall go out together and</speech>
+               <lb facs="#facs_1_r_tl_14" n="N013"/><speech speaker="Holmes" continued="true">see what we can do. I feel as if I shall need your company &amp; your</speech>
+               <lb facs="#facs_1_r_tl_15" n="N014"/><hi style="vertical-align: subscript;"><unclear alternative="moral" reason="First\u0020two\u0020letters\u0020were\u0020cut\u0020off\u0020due\u0020to\u0020the\u0020scan\u0020of\u0020the\u0020recto-page\u0020overlapping\u0020them.">ral</unclear> support to day"</hi>
+               <lb facs="#facs_1_r_tl_16" n="N015"/>My friend had no breakfast himself for it was one
+               <lb facs="#facs_1_r_tl_17" n="N016"/>of his peculiarities that in his more intense moments he would
+               <lb facs="#facs_1_r_tl_18" n="N017"/>permit himself no food, and I have known him presume upon
+               <lb facs="#facs_1_r_tl_19" n="N018"/>his iron strength until he has fainted from pure inanition.
+               <lb facs="#facs_1_r_tl_20" n="N019"/><hi style="vertical-align: superscript;">At present</hi>
+               <lb facs="#facs_1_r_tl_21" n="N020"/><speech speaker="Holmes">"I really cannot spare energy &amp; nerve force for digestion"</speech> he
+               <lb facs="#facs_1_r_tl_23" n="N021"/>would say in answer to my <hi style="vertical-align: subscript;">^</hi> remonstrances. I was not
+               <lb facs="#facs_1_r_tl_22" n="N022"/><add place="between\u0020\u0027my\u0027\u0020and\u0020\u0027remonstrances\u0027"><hi style="vertical-align: superscript;">medical</hi></add>
+               <lb facs="#facs_1_r_tl_24" n="N023"/>emprised therefore when this morning he left his untouched
+               <lb facs="#facs_1_r_tl_25" n="N024"/>meal behind him and started with me for <rs type="person">Norwood</rs>. A</p></div>
+      </body>
+   </text>
+</TEI>
