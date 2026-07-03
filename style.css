@@ -33,3 +33,7 @@ p {
   text-decoration: line-through;
 }
 
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
