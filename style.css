@@ -9,10 +9,6 @@ body {
 img {
     max-width: 100%;
     float: right;
-    padding-right: 1px;
-    position: absolute;
-    top: 150px;
-    right: 30px;
 }
 
 p {
