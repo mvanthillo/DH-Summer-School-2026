@@ -34,6 +34,15 @@ p {
 }
 
 .table {
-  border-collapse: collapse;
-  width: 100%;
+    float: centre;
+    width: 25%;
+    border: 3px dashed #7f1f07;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 650px;
+    right: 50px;
+    font-family: Georgia;
+    background-color: #e4c7ae;
 }
