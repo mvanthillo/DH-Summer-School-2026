@@ -7,7 +7,7 @@
     
     <!-- <xsl:output method="xml" omit-xml-declaration="yes" indent="yes" /> -->
 
-    
+    <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
     <xsl:template match="tei:TEI">
                      <div class="row">
                          <div class="col">

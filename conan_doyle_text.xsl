@@ -62,6 +62,23 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
+
+    <xsl:template match="tei:hi">
+        <xsl:choose>
+            <xsl:when test="@rend = 'sup'">
+                <sup><xsl:apply-templates/></sup>
+            </xsl:when>
+            <xsl:when test="@rend = 'underline'">
+                <u><xsl:apply-templates/></u>
+            </xsl:when>
+            <xsl:otherwise>
+                <span><xsl:apply-templates/></span>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
     
     <!-- add additional templates below, for example to transform the tei:lb to <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
 
