@@ -51,7 +51,7 @@
    <text>
       <body>
          <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r_1" place="top">
-               <lb facs="#facs_1_r_1_tl_1" n="N001"/>32</fw>
+               <lb facs="#facs_1_r_1_tl_1" n="N001"/><floatingText><body><p>32</p></body><floatingText></fw>
             <p facs="#facs_1_r">
                <lb facs="#facs_1_r_tl_1" n="N001"/>It was from <rs type="person">Norwood</rs> and 
                <lb facs="#facs_1_r_tl_2" n="N002"/><unclear>it</unclear> ran as follows. 
