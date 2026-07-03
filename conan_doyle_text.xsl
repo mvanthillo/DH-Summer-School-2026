@@ -74,8 +74,8 @@
             <xsl:when test="@rend = 'underline'">
                 <u><xsl:apply-templates/></u>
             </xsl:when>
-            <xsl:when test="@rend = 'sub'">
-                <sub><xsl:apply-templates/></sub
+            <xsl:when test="@rend = 'subscript">
+                <sub><xsl:apply-templates/></sub>
             </xsl:when>
             <xsl:otherwise>
                 <span><xsl:apply-templates/></span>
