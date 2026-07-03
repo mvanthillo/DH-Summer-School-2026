@@ -77,9 +77,6 @@
             <xsl:when test="@rend = 'sub'">
                 <sub><xsl:apply-templates/></sub
             </xsl:when>
-            <xsl:when test="@rend = 'indented'">
-                <span style="text-indent: 2em;"><xsl:apply-templates/></span>
-            </xsl:when>
             <xsl:otherwise>
                 <span><xsl:apply-templates/></span>
             </xsl:otherwise>
