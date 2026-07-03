@@ -9,7 +9,7 @@
             <p>Unpublished</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Born digital</p>
+            <p>Hand-written</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -65,14 +65,12 @@
                <lb facs="#facs_1_r_tl_12" n="N010"/><speech speaker="Holmes" continued="true">a very different direction to <del type="crossedOut">what</del><hi style="vertical-align: superscript;" rend="sup"> <add place="above"> that which</add></hi> Lestrade imagines.</speech>
                <lb facs="#facs_1_r_tl_13" n="N012"/><speech speaker="Holmes" continued="true">Take your breakfast, <rs type="person">Watson</rs>, and we shall go out together and</speech>
                <lb facs="#facs_1_r_tl_14" n="N013"/><speech speaker="Holmes" continued="true">see what we can do. I feel as if I shall need your company &amp; your</speech>
-               <lb facs="#facs_1_r_tl_15" n="N014"/><add place="above"><hi style="vertical-align: subscript;" rend="sup"><unclear alternative="moral" reason="First\u0020two\u0020letters\u0020were\u0020cut\u0020off\u0020due\u0020to\u0020the\u0020scan\u0020of\u0020the\u0020recto-page\u0020overlapping\u002  them.">ral</unclear> support to day"</hi></add>
-               <lb facs="#facs_1_r_tl_16" n="N015"/>My friend had no breakfast himself for it was one
+               <lb facs="#facs_1_r_tl_15" n="N014"/><add place="above"><hi style="vertical-align: superscript;" rend="sup"><unclear alternative="moral" reason="First\u0020two\u0020letters\u0020were\u0020cut\u0020off\u0020due\u0020to\u0020the\u0020scan\u0020of\u0020the\u0020recto-page\u0020overlapping\u002  them.">ral</unclear> support to day"</hi></add> My friend had no breakfast himself for it was one
                <lb facs="#facs_1_r_tl_17" n="N016"/>of his peculiarities that in his more intense moments he would
                <lb facs="#facs_1_r_tl_18" n="N017"/>permit himself no food, and I have known him presume upon
                <lb facs="#facs_1_r_tl_19" n="N018"/>his iron strength until he has fainted from pure inanition.
-               <lb facs="#facs_1_r_tl_20" n="N019"/><add place="above"><hi style="vertical-align: superscript;" rend="sup">At present</hi></add>
-               <lb facs="#facs_1_r_tl_21" n="N020"/><speech speaker="Holmes">"I really cannot spare energy &amp; nerve force for digestion"</speech> he
-               <lb facs="#facs_1_r_tl_23" n="N021"/>would say in answer to my <hi style="vertical-align: subscript;">^</hi> <add place="between\u0020\u0027my\u0027\u0020and\u0020\u0027remonstrances\u0027"><hi style="vertical-align: superscript;" rend="sup">medical</hi></add> remonstrances. I was not
+               <lb facs="#facs_1_r_tl_20" n="N019"/><add place="above"><hi style="vertical-align: superscript;" rend="sup">At present</hi></add> <speech speaker="Holmes">"I really cannot spare energy &amp; nerve force for digestion"</speech> he
+               <lb facs="#facs_1_r_tl_23" n="N021"/>would say in answer to my <hi style="vertical-align: subscript;" rend="subscript">^</hi> <add place="between\u0020\u0027my\u0027\u0020and\u0020\u0027remonstrances\u0027"><hi style="vertical-align: superscript;" rend="sup">medical</hi></add> remonstrances. I was not
                <lb facs="#facs_1_r_tl_24" n="N023"/>emprised therefore when this morning he left his untouched
                <lb facs="#facs_1_r_tl_25" n="N024"/>meal behind him and started with me for <rs type="person">Norwood</rs>. A
             </p>
